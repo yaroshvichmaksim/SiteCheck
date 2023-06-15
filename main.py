@@ -41,4 +41,4 @@ while True:
         previous_page_text = page_text
 
     # Ждем 10 секунд перед повторным запросом
-    time.sleep(60)
+    time.sleep(3600)
